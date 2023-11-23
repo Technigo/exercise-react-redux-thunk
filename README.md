@@ -34,13 +34,13 @@ This is a simple web application that fetches data about cryptocurrencies from t
 
 ## Instructions
 
-Build an app that fetches some coins from the end-point provided and saves the data in the global state
+Build an app that fetches some coins from the end-point provided and saves the data in the global state:
 
-Create a store, reducers, dispatch actions and select data from the state to render in your components.
+1. Create a store, reducers, dispatch actions and select data from the state to render in your components.
 
-Add a loading state until the fetching request is fultilled.
+2. Add a loading state until the fetching request is fultilled.
 
-What about using some animation for the loading state?
+3. Bonus: what about using some animation for the loading state?
 
 Fetch data from this end-point:
 
